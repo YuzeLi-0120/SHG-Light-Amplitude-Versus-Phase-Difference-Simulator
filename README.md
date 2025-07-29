@@ -1,6 +1,8 @@
 # SHG-Light-Amplitude-Versus-Phase-Difference-Simulator
 A little program aiming at simulating the behavior of the SHG light stimulated from crystals.
 
+There are two main codes in this repo. The SHG_simulator.m aims at simulating the behavior of SHG light amplitude VS. phase difference. All of the parameters can be modified as needed. While the SHG_mutiple_average_simulator.m is intended to calculate the average final SHG intensity after a certain phase difference - which you can define.
+
 The program I wrote outputs the schemes of SHG light amplitude versus phase difference.
 Below is the first scheme under different method of phase matching. 
 The black dashed line represents the theoretically perfect phase matching condition.
